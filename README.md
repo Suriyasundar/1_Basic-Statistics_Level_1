@@ -1,4 +1,4 @@
-# Assignments
+# 1_Basic Statistics_Level_1
 Q1)Number of beatings from Wife,Results of rolling a dice,Number of kids,Number of tickets in Indian railways-Discrete.
    Weight of a person,Weight of Gold,Distance between two places,Length of a leaf,Dog's weight-Continuous.
    Blue Color,Gender (Male or Female)-Categorical.
